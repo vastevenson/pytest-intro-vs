@@ -9,3 +9,6 @@ def multiply(x,y):
 
 def divide(x,y):
     return x/y
+
+def sum(x,y):
+    return x+y
